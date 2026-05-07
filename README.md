@@ -13,13 +13,13 @@ Focused on building clean, functional and visually engaging interfaces.
 
 ---
 
-## 💫 About Me
+## About Me
 
 ```txt
-💻 Currently studying Software Development
+💻 Currently studyin Software Development
+📱 Building web and mobile projects with React and Flutter
 ⚛️ Focused on Frontend Development and UI/UX
 🎨 Background in illustration, branding and visual communication
-📱 Building web and mobile projects with React and Flutter
 🤝 Experienced working with clients, teams and independent projects
 🌱 Always learning new technologies and improving my workflow
 
@@ -31,4 +31,4 @@ Frontend & Mobile
 Tools & Design
 <p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> </p>
   
-<p align="center"> <a href="https://github.com/TUUSUARIO"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://linkedin.com/in/TULINK"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://instagram.com/sofita.tattoo"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> </p> ```
+<p align="center"> <a href="https://github.com/sofia1098"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/sofia-nunez1/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://instagram.com/sofita.nunez"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> </p> ```
